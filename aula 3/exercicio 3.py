@@ -1,0 +1,5 @@
+print('ola bom dia')
+nome = input ('qual o seu nome ?')
+altura = float(input ('qual a sua altura ?'))
+idade = int(input ('qual a sua idade ?'))
+print ('prazer em conhecer vc {} a sua altura e {} e sua idade e {}.'.format(nome,altura,idade))
